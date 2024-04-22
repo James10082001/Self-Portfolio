@@ -1,0 +1,113 @@
+
+header {
+  text-align: center;
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center; 
+  Text-align : center;
+  flex-direction: column; 
+}
+        
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  width: 200px;
+  height: 100px;
+  margin-bottom: 20px; 
+}
+
+.icon-container i {
+  color: rgb(204, 204, 219);
+}
+.Self{
+     margin-top: -505px;
+     text-align: left;
+     color: rgb(48, 48, 48);
+     background-color: rgb(207, 207, 207);
+}
+
+body {
+    border: 2px solid black;
+    padding: 20px; 
+
+    height: 120vh;
+    background: linear-gradient(48deg,teal,purple)
+}
+.nm{
+  color: white;
+}
+
+.line{
+  margin-top: -10px;
+  border-color:black;
+  background-color: black;
+}
+
+.sec{
+  margin-top: -4px;
+  color: white;
+}
+
+.vr{
+  border-left: 1px solid white;
+  height: 104px;
+  position: absolute;
+  left: 12%;
+  margin-left: -150px;
+  top: 413px;
+}
+
+
+.tp{
+  background-color: white;
+}
+.col1{
+  color: white;
+}
+.col2{
+  color: white;
+}
+.col3{
+  color: white;
+}
+
+.tb {
+  border-collapse: collapse;
+  border: 2px solid rgb(255, 255, 255);
+  width: 100%;
+}
+.tb th, .tb td {
+  border: 1px solid rgb(255, 255, 255);
+  border-right: 0;
+  padding: 4px; 
+  text-align: center;
+}
+.tp th {
+  background-color: #f2f2f2;
+}
+.expert{
+  margin-bottom: -400px;
+  text-align: left;
+  color: grey(48,48 48);
+  
+}
+.ex1{
+  background-color: rgb(207, 207, 207);
+}
+li {
+  color: white;
+}
+
+.bt{
+  background-color: rgb(207, 207, 207);
+}
+.bt2{
+  color: white;
+}
+.ap{
+  background-color: rgb(207, 207, 207);
+}
